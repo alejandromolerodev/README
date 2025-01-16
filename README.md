@@ -21,8 +21,8 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
 
 - **Frameworks & Librerías**:
   - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) 
-  - ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138?style=flat&logo=swift&logoColor=white) SwiftUI
-  - ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white) Pandas
+  - ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138?style=flat&logo=swift&logoColor=white) 
+  - ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white) 
 
 - **Bases de Datos**:
   - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
