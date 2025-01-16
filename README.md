@@ -14,25 +14,25 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
-  - ![Java](https://img.shields.io/badge/Java-%23f7b700?style=flat&logo=java&logoColor=white) Java
-  - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) Python
-  - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white) Kotlin
-  - ![Swift](https://img.shields.io/badge/Swift-%23f05138?style=flat&logo=swift&logoColor=white) Swift
+  - ![Java](https://img.shields.io/badge/Java-%23f7b700?style=flat&logo=java&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+  - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white) 
+  - ![Swift](https://img.shields.io/badge/Swift-%23f05138?style=flat&logo=swift&logoColor=white) 
 
 - **Frameworks & Librerías**:
-  - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) Spring
+  - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white) 
   - ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138?style=flat&logo=swift&logoColor=white) SwiftUI
   - ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white) Pandas
 
 - **Bases de Datos**:
-  - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white) MySQL
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-%2300A000?style=flat&logo=mongodb&logoColor=white) MongoDB
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300579C?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-  - ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white) Oracle
+  - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-%2300A000?style=flat&logo=mongodb&logoColor=white) 
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300579C?style=flat&logo=postgresql&logoColor=white) 
+  - ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white) 
 
 - **Herramientas**:
-  - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) Git
-  - ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white) Docker
+  - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) 
+  - ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white) 
 
 ## 📬 ¡Conéctate conmigo!
 - **Correo**: alejandromolero.developer@gmail.com
