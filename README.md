@@ -10,7 +10,7 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
 
 ## 🚀 Actualmente trabajando en:
 - **Proyectos personales**: Explorando nuevas ideas y construyendo soluciones innovadoras.
-- **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Science y Swift.
+- **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Analysis y Swift concretamente SwiftUI.
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
