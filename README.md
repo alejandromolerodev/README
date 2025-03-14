@@ -1,8 +1,3 @@
-# README
-
-¡Claro! Aquí tienes una plantilla de README para tu perfil de GitHub, que puedes personalizar según tus intereses y habilidades.
-
----
 
 # 👋 Hola, soy Alejandro!
 
@@ -10,7 +5,7 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
 
 ## 🚀 Actualmente trabajando en:
 - **Proyectos personales**: Explorando nuevas ideas y construyendo soluciones innovadoras.
-- **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Analysis, Swift concretamente SwiftUI y Angular adentrándome en el mundo del Frontend.
+- **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Analysis, Swift concretamente SwiftUI y TypeScript con Angular adentrándome en el mundo del Frontend.
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
