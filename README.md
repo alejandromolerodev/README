@@ -22,6 +22,11 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
   - ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2300B2A9?style=flat&logo=python&logoColor=white)
   - ![Folium](https://img.shields.io/badge/Folium-%23000000?style=flat&logo=python&logoColor=white)
   - ![Angular](https://img.shields.io/badge/Angular-%23E23237?style=flat&logo=angular&logoColor=white)
+  - ![Express](https://img.shields.io/badge/Express-%23404d59?style=flat&logo=express&logoColor=white)
+
+- **Entornos de ejecución**:
+  - ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+
 
  
 
