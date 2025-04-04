@@ -33,9 +33,11 @@ Además actualmente estoy mejorando y fortaleciendo mis bases de C# y JavaScript
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300579C?style=flat&logo=postgresql&logoColor=white)
   - ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)
   - ![SQLite](https://img.shields.io/badge/SQLite-%2307405B?style=flat&logo=sqlite&logoColor=white)
+  - ![SQLServer](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
 - **Herramientas**:
+  - ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat&logo=microsoft-dynamics&logoColor=white)
   - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) 
   - ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white) 
 
