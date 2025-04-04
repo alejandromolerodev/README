@@ -6,6 +6,7 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
 ## 🚀 Actualmente trabajando en:
 - **Proyectos personales**: Explorando nuevas ideas y construyendo soluciones innovadoras.
 - **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Analysis, Swift concretamente SwiftUI y TypeScript con Angular adentrándome en el mundo del Frontend.
+Además actualmente estoy mejorando y fortaleciendo mis bases de C# y JavaScript trabajando como Dynamics Developer en Indra dentro del ecosistema de Microsoft.
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
@@ -14,6 +15,8 @@ Soy un apasionado de la programación y la tecnología, siempre buscando aprende
   - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white) 
   - ![Swift](https://img.shields.io/badge/Swift-%23f05138?style=flat&logo=swift&logoColor=white)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frameworks & Librerías**:
   - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
