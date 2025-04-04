@@ -10,7 +10,6 @@ Desarrollador de software apasionado por la tecnología, con experiencia en múl
     - **Mobile**: Prototipos con SwiftUI y Kotlin
     - **Frontend**: Aplicaciones con Angular y TypeScript
     - **Backend**: APIs con Spring y Java, C# 
-    - **Otros proyectos**: Multiplatform Apps con .NET MAUI
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
