@@ -5,12 +5,12 @@ Desarrollador de software apasionado por la tecnología, con experiencia en múl
 
 ## 🚀 Actualmente trabajando en:
 - **Proyectos personales**: Explorando nuevas ideas y construyendo soluciones innovadoras.
-    **Dynamics 365**: Desarrollo de soluciones empresariales personalizadas en Indra
-    **Data Analysis**: Procesamiento de datos con Python (Pandas, SQLAlchemy, Folium)
-    **Mobile**: Prototipos con SwiftUI y Kotlin
-    **Frontend**: Aplicaciones con Angular y TypeScript
-    **Backend**: APIs con Spring y Java, C# 
-    **Otros proyectos**: Multiplatform Apps con .NET MAUI
+    - **Dynamics 365**: Desarrollo de soluciones empresariales personalizadas en Indra
+    - **Data Analysis**: Procesamiento de datos con Python (Pandas, SQLAlchemy, Folium)
+    - **Mobile**: Prototipos con SwiftUI y Kotlin
+    - **Frontend**: Aplicaciones con Angular y TypeScript
+    - **Backend**: APIs con Spring y Java, C# 
+    - **Otros proyectos**: Multiplatform Apps con .NET MAUI
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
