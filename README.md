@@ -1,12 +1,16 @@
 
 # 👋 Hola, soy Alejandro!
 
-Soy un apasionado de la programación y la tecnología, siempre buscando aprender, crear y colaborar en proyectos interesantes. Soy desarrollador de software y me encanta experimentar con nuevas herramientas y frameworks.
+Desarrollador de software apasionado por la tecnología, con experiencia en múltiples lenguajes y frameworks. Actualmente estoy trabajando como Dynamics Developer en Indra dentro del ecosistema de Microsoft.
 
 ## 🚀 Actualmente trabajando en:
 - **Proyectos personales**: Explorando nuevas ideas y construyendo soluciones innovadoras.
-- **Aprendiendo**: Mejorando mis habilidades en Python concretamente Data Analysis, Swift concretamente SwiftUI y TypeScript con Angular adentrándome en el mundo del Frontend.
-Además actualmente estoy mejorando y fortaleciendo mis bases de C# y JavaScript trabajando como Dynamics Developer en Indra dentro del ecosistema de Microsoft.
+    **Dynamics 365**: Desarrollo de soluciones empresariales personalizadas en Indra
+    **Data Analysis**: Procesamiento de datos con Python (Pandas, SQLAlchemy, Folium)
+    **Mobile**: Prototipos con SwiftUI y Kotlin
+    **Frontend**: Aplicaciones con Angular y TypeScript
+    **Backend**: APIs con Spring y Java, C# 
+    **Otros proyectos**: Multiplatform Apps con .NET MAUI
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación**:
